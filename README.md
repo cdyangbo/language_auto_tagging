@@ -1,5 +1,6 @@
-# language_auto_tagging
+# Speech auto tagging
 identify the language's attribute(such as language type,gender,accent etc.) use keras.
+now only implementation language type classify.
 
 # 1. data prepare
   use librispeech and THCHS30 as english and chinese speech corpus
