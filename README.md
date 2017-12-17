@@ -4,6 +4,7 @@ now only implementation language type classify.
 
 # 1. data prepare
   use librispeech and THCHS30 as english and chinese speech corpus
+  
   run in shell:
      python data_prepare
     
